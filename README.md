@@ -10,5 +10,5 @@ BroadcastService
 
 插件开发官方文档：
 
-
+https://www.igniterealtime.org/builds/openfire/docs/latest/documentation/plugin-dev-guide.html
 
